@@ -1,0 +1,43 @@
+{
+    "folders": [
+		{
+			"path": ".."
+		}
+	],
+    "settings": {
+        "files.associations": {
+            "iostream": "cpp",
+            "array": "cpp",
+            "atomic": "cpp",
+            "bit": "cpp",
+            "*.tcc": "cpp",
+            "cmath": "cpp",
+            "compare": "cpp",
+            "concepts": "cpp",
+            "deque": "cpp",
+            "string": "cpp",
+            "unordered_map": "cpp",
+            "vector": "cpp",
+            "functional": "cpp",
+            "memory_resource": "cpp",
+            "optional": "cpp",
+            "string_view": "cpp",
+            "type_traits": "cpp",
+            "algorithm": "cpp",
+            "memory": "cpp",
+            "random": "cpp",
+            "iosfwd": "cpp",
+            "istream": "cpp",
+            "limits": "cpp",
+            "new": "cpp",
+            "numeric": "cpp",
+            "ostream": "cpp",
+            "stdexcept": "cpp",
+            "streambuf": "cpp",
+            "system_error": "cpp",
+            "tuple": "cpp",
+            "typeinfo": "cpp",
+            "utility": "cpp"
+        }
+    }
+}
